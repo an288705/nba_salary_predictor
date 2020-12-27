@@ -1,6 +1,6 @@
 # nba_salary_predictor
 
-This project is meant to predict the salary of NBA players. It uses machine learning and XGBoost to come to these predictions. This project also shows how to pull data from an API and save it to an SQL database. You can submit whichever season you'd like, but I specifically chose the 2017-2018 season. The API used is https://www.balldontlie.io/
+This project is meant to predict the salary of NBA players. It uses machine learning and XGBoost to come to these predictions. This project also shows how to pull data from an API and save it to an SQL database. You can use whichever season you'd like, but I specifically chose the 2017-2018 season. The code is heavily commented and each step is explained clearly. The API used is https://www.balldontlie.io/
 
 ## Prerequisites
 
