@@ -18,7 +18,7 @@ To use the nba_salary_predictor, make sure you have a salary csv file, as the AP
 * api_to_sql.py
 * nba_salary_xgboost.ipynb
 
-You may also use a different API, but this code only knows how to pull from the https://www.balldontlie.io/ API
+You may also use a different API, but this code only knows how to pull from the https://www.balldontlie.io/ API. You would need to know how to pull from the API of your choice.
 
 ## Contributing to nba_salary_predictor
 
