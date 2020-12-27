@@ -13,7 +13,7 @@ To install nba_salary_predictor, simply fork the files in this repository.
 
 ## Using nba_salary_predictor
 
-To use the nba_salary_predictor, make sure you have a salary csv file, as the API doesn't contain salaries. Compile the python files in this order:
+To use the nba_salary_predictor, make sure you have a salary csv file, as the API doesn't contain salaries. Compile the files in this order:
 * pull_name.py
 * api_to_sql.py
 * nba_salary_xgboost.ipynb
