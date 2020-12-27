@@ -5,7 +5,7 @@ This project is meant to predict the salary of NBA players. It uses machine lear
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-* You have installed the latest version of the python modules requests, time, csv, xgboost, json, and jupyter notebook modules
+* You have installed the latest version of the python modules requests, time, csv, xgboost, json, and jupyter notebook with its modules
 
 ## Installing nba_salary_predictor
 
